@@ -1,8 +1,8 @@
-![marvel-api](https://user-images.githubusercontent.com/33507392/111035126-f620e600-83e6-11eb-8ef6-500a43fcba99.png)
+
 # Marvel Api
 
 Página Web desarrollada en el framework [React js](http://https://es.reactjs.org/ "react js") en la cual es posible realizar una consulta a una Api-Rest de Marvel y mostrar el resultado de los datos.
-
+![marvel-api](https://user-images.githubusercontent.com/33507392/111035126-f620e600-83e6-11eb-8ef6-500a43fcba99.png)
 
 
 ## Objetivo
