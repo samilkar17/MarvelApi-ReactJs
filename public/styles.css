@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
+body{
+
+  font-family: 'Permanent Marker', sans-serif;
+  background: #ccc;
+}
+.container{
+  background: #fff;
+  box-shadow: 0 20px 20px rgba(0,0,0,.5);
+
+}
+.col-md-4{
+padding: 15px;
+
+}
+.card{
+  box-shadow: 0 30px 30px rgba(0,0,0,.5);
+  transition: 0.5s ease-in-out;
+}
+.card-img-top{
+  height: 80%;
+}
+.card:hover{
+
+  transform: translateY(20px);
+  transition: 0.5s;
+
+}
+.card-body{
+  background: rgba(0, 0, 0, 0.9);
+  color:white;
+}
+.card-body p{
+  z-index: 3;
+}
+
+.row{
+  padding: 50px;
+}
+.card-title{
+
+  font-size: 15px;
+}
